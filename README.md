@@ -2,7 +2,9 @@
 
 #### You can go through each of the projects by following the respective link.
 
-### Pipeline As A Code (PaaC)
+### Pipeline As A Code (PaaC)  
+
+- [Project 04 Deploying Flask app using Argocd(GitOps)](https://github.com/saeedalig/flask-app.git)  
 
 - Project 03: Deploying java app using jenkins Shared Library  
        - [Java App](https://github.com/saeedalig/java_app.git)  
