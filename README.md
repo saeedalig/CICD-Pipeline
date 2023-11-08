@@ -4,7 +4,9 @@
 
 ### Pipeline As A Code (PaaC)  
 
-- [Project 04 Deploying Flask app using Argocd(GitOps)](https://github.com/saeedalig/flask-app.git)  
+- [Project 05: Deploying Petstore Application in kubernetes cluster using Ansible](https://github.com/saeedalig/petstore.git)  
+
+- [Project 04: Deploying Flask app using Argocd(GitOps)](https://github.com/saeedalig/flask-app.git)  
 
 - Project 03: Deploying java app using jenkins Shared Library  
        - [Java App](https://github.com/saeedalig/java_app.git)  
